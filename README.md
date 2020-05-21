@@ -45,8 +45,8 @@ Tutorial requirements:
 * Brackets (or any code editor) http://brackets.io/
 * WAMP (or any PHP server) https://www.mamp.info/
 
-Full tutorial URL: https://professoradamthomas.com/learning/php/php-big-picture.html
+Full tutorial URL: https://codeadam.ca/learning/php/php-big-picture.html
 
-<a href="https://professoradamthomas.com">
-<img src="https://professoradamthomas.com/images/code-block.png" width="100">
+<a href="https://codeadam.ca">
+<img src="https://codeadam.ca/images/code-block.png" width="100">
 </a>
