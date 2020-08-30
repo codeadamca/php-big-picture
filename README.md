@@ -1,8 +1,9 @@
 # php-big-picture
 A basic walkthrough of using PHP to display content from a MySQL database. 
 
-This tutorial will provide a basic walk through of creating a MySQL database and using PHP do display the database content in an HTML page.
- 
+This walkthrough is meant to illustrate the process of using PHP to display database content in an HTML web page. This is not meant to be a tutorial, more of a quick example of the end goal of these series of PHP tutorials. 
+
+## Code Explanation
 This block of code will connect our PHP file to the MySQL database:
  
 ```php
@@ -40,10 +41,10 @@ while( $record = mysqli_fetch_assoc( $result ) )
 ?>
 ```
 
-Tutorial requirements:
+## Tutorial requirements:
 
-* Brackets (or any code editor) http://brackets.io/
-* WAMP (or any PHP server) https://www.mamp.info/
+* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
+* [Filezilla](https://filezilla-project.org/) (or any FTP program)
 
 Full tutorial URL: https://codeadam.ca/learning/php/php-big-picture.html
 
