@@ -1,4 +1,5 @@
-# php-big-picture
+# A Basic Introduction to PHP and MySQL
+
 A basic walkthrough of using PHP to display content from a MySQL database. 
 
 This walkthrough is meant to illustrate the process of using PHP to display database content in an HTML web page. This is not meant to be a tutorial, more of a quick example of the end goal of these series of PHP tutorials. 
